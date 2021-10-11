@@ -21,7 +21,7 @@ h3{
     color: grey;
     margin: 5px;
 }
-span{
+#author{
     color: rgb(97, 159, 230);
 }
 h4{
@@ -34,4 +34,31 @@ h4{
 }
 .tim-pic2{
     width: 43%;
+}
+.photo-description{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+thead{
+    background-color: rgb(107, 155, 228);
+    color: white;
+}
+.row-pair{
+    background-color: lightskyblue;
+}
+tr, td{
+    text-align: left;
+    
+}
+.table-description{
+    width: 50%;
 }
