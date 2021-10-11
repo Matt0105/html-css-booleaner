@@ -1,3 +1,7 @@
+body{
+    /* margin: 0; */
+}
+
 .banner{
     background: url(../img/pattern.png);
     background-size: 35%;
@@ -8,4 +12,26 @@
 .logo{
     width: 200px;
     margin-top: 50px;
+}
+h1{
+    font-size: 45px;
+    margin: 5px;
+}
+h3{
+    color: grey;
+    margin: 5px;
+}
+span{
+    color: rgb(97, 159, 230);
+}
+h4{
+    color: grey;
+    margin: 5px;
+}
+
+.tim-pic1{
+    width: 50%;
+}
+.tim-pic2{
+    width: 43%;
 }
