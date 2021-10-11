@@ -9,21 +9,26 @@ body{
     background-color: rgb(97, 159, 230);
     padding: 0;
 }
+
 .logo{
     width: 200px;
     margin-top: 50px;
 }
+
 h1{
     font-size: 45px;
     margin: 5px;
 }
+
 h3{
     color: grey;
     margin: 5px;
 }
+
 #author{
     color: rgb(97, 159, 230);
 }
+
 h4{
     color: grey;
     margin: 5px;
@@ -32,9 +37,11 @@ h4{
 .tim-pic1{
     width: 50%;
 }
+
 .tim-pic2{
     width: 43%;
 }
+
 .photo-description{
     font-size: 12px;
     margin-top: 5px;
@@ -47,18 +54,39 @@ h4{
 table{
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: left;
 }
+
 thead{
     background-color: rgb(107, 155, 228);
     color: white;
 }
+
 .row-pair{
     background-color: lightskyblue;
 }
-tr, td{
-    text-align: left;
-    
-}
+
 .table-description{
     width: 50%;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    margin-bottom: 10px;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    margin-bottom: 10px;
+}
+
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
 }
