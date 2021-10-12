@@ -63,6 +63,7 @@ table{
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: left;
+    border-spacing: 0;
 }
 
 thead{
